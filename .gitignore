@@ -1,0 +1,18 @@
+# JetBrains IDE - you may want to remove this for your project
+.idea/*
+
+# Node dependencies
+node_modules
+
+# System files
+*.log*
+
+# Nuxt dev/build outputs
+.nuxt
+.output
+
+# Config
+.env
+
+# Mac files
+.DS_Store
